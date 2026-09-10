@@ -1,0 +1,16 @@
+Panono Rescue
+Copyright © 2026 ilmojensankari. All rights reserved.
+
+You may download, install and use the official, unmodified application binaries
+free of charge, for personal or professional use. Donations are optional.
+
+This is proprietary software. No license to its source code, modified versions,
+or other derivative works is granted. Other uses require the copyright holder's
+permission, except where applicable law provides otherwise.
+
+The application is provided “as is”, without warranties, to the extent permitted
+by applicable law. Keep independent backups of your photographs.
+
+Third-party components are licensed separately under their respective terms.
+Those terms, including any rights they grant, are preserved in
+ThirdPartyNotices.txt and are not restricted by this notice.
