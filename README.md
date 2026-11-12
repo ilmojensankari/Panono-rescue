@@ -1,15 +1,28 @@
+
 <img src="PanonoRescue.png" width="128" alt="Panono Rescue icon">
 
 # Panono Rescue
 
 <sub>by ilmojensankari</sub>
 
-Keep your Panono camera in use. Connect your Mac to the camera's Wi-Fi, browse
-its panoramas, take new photographs, and save the original UPF files.
+Keep your Panono camera in use. Connect your Mac, iPhone, or iPad to the camera's
+Wi-Fi, browse its panoramas, take new photographs, and save the original UPF files.
 Use [Panono Stitcher](https://github.com/ilmojensankari/Panono-stitcher) to turn
 those files into spherical panoramas on your Mac.
 
 ## Download and install
+
+### iPhone and iPad — public beta
+
+[Join the Panono Rescue beta on TestFlight](https://testflight.apple.com/join/M8fmXjeq).
+Requires **iOS 17 or iPadOS 17 or later** and a Panono camera for camera controls
+and downloads.
+
+Open the invitation link on your iPhone or iPad, install Apple's **TestFlight**
+app if prompted, then accept the invitation and install **Panono Rescue**.
+You can send feedback through TestFlight.
+
+### Mac
 
 Download the Universal DMG from [Releases](https://github.com/ilmojensankari/Panono-rescue/releases),
 open it, and drag **Panono Rescue** to **Applications**. A ZIP download is also
@@ -22,22 +35,36 @@ archives contain the documentation and artwork, not the application.
 
 ## What it does
 
-- Browse and preview panoramas, download original UPF files, and delete selected
-  camera files after confirmation.
+- Browse and preview panoramas and download original UPF files.
+- On Mac, delete selected camera files after confirmation.
 - Switch HDR on or off and see the active mode.
 - Take photographs immediately or with a 5- or 10-second timer.
 - Adjust the camera's exposure mode, ISO, shutter speed and white balance.
-- Set the camera's clock from your Mac for new captures.
-- Add optional location data using manual coordinates or your Mac's location.
+- Set the camera's clock from your device for new captures.
+- Add optional location data using manual coordinates or your device's location.
 
 ## Getting started
+
+### iPhone and iPad
+
+1. Turn on the camera and join its Wi-Fi network in iOS or iPadOS **Settings**.
+2. Open Panono Rescue, tap **Connect to camera**, and allow local network access
+   when prompted.
+3. Use the **Camera** tab to set up and take photographs. Open **Library** to
+   browse previews and download original UPF files.
+4. Find saved files under **Library → Downloaded**. Use **Share original → Save
+   to Files** to export a UPF file or transfer it to your Mac for stitching.
+
+Panono Stitcher is available for Mac; there is no iOS version.
+
+### Mac
 
 1. Turn on the camera and join its Wi-Fi network on your Mac.
 2. Open Panono Rescue and select **Connect camera**.
 3. Choose a download folder before saving files.
 4. Use **Shooting settings** and **Time & location** to prepare new captures.
 
-Location tagging starts off each time you open the app. Mac location requires
+Location tagging starts off each time you open the app. Device location requires
 permission and a recent location fix. Manual coordinates are available if
 Location Services cannot obtain a fix on the camera's Wi-Fi. Setting the camera's
 clock does not change existing captures.
